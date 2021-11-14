@@ -16,3 +16,5 @@
 ## Evaluation with Moving Doors (Dynamic Environment)
 
 <br>
+
+## HITL Test (using PX4 )
