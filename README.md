@@ -17,6 +17,7 @@
 <br>
 
 ## System Design
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/system_design.png" width="300" alt="System_Design"/>
 
 <br>
 
