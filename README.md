@@ -1,8 +1,9 @@
 # Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning
 ----
 
-## Training quadrotor by Reinforcement Learning 
+## Training quadrotor by Deep Reinforcement Learning 
 
+### Using Different Sensor
 <table>
     <center>
     <tr>
@@ -16,7 +17,18 @@
     </tr>
 </table>
 
-
+<table>
+    <center>
+    <tr>
+        <td><center>Cumulative Reward (depth image + recurrent network)</center></td>
+        <td><center>Cumulative Reward (Transfer Learning)</center></td>
+    </tr>
+    </center>
+    <tr>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/result_recurrent.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/result_transfer.png" ></td>
+    </tr>
+</table>
 
 <br>
 
