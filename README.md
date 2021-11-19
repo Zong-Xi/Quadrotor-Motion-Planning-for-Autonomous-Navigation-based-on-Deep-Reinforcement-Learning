@@ -17,11 +17,12 @@
     </tr>
 </table>
 
+### Improvement for Depth Image
 <table>
     <center>
     <tr>
-        <td><center>Cumulative Reward (depth image + recurrent network)</center></td>
-        <td><center>Cumulative Reward (Transfer Learning)</center></td>
+        <td><center>Depth Image + Recurrent Network</center></td>
+        <td><center>Transfer Learning: Pre-trained Depth Network + Pre-trained Laser Network</center></td>
     </tr>
     </center>
     <tr>
