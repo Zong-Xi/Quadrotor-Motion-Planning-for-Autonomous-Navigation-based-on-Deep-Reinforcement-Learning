@@ -5,7 +5,7 @@
 - AirSim
 
 ## Training quadrotor by Reinforcement Learning 
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="300" alt="RL_graph"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="400" alt="RL_graph"/>
 
 - Get data(observation) from sensor 
 - Data preprocess for training
@@ -17,20 +17,20 @@
 <br>
 
 ## System Design
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/system_design.png" width="300" alt="System_Design"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/system_design.png" width="400" alt="System_Design"/>
 
 <br>
 
 ## Evaluation with Non-Convex Obstacle
-
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/convex1.png" width="400" alt="Convex"/>
 <br>
 
 ## Evaluation with Blind Alley
-
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/blindalley.png" width="400" alt="Alley"/>
 <br>
 
 ## Evaluation with Moving Doors (Dynamic Environment)
-
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/dynamic.png" width="400" alt="Dynamic"/>
 <br>
 
 ## HITL Test (using PX4 )
