@@ -54,6 +54,8 @@
 function, solve the inefficiency in training and get better convergence
 - Solve the lack of observation in DRL(solve the limitation of camera FOV in this project), and improves the estimation of Q-function
 
+<br>
+
 ## Evaluation with Non-Convex Obstacle
 <img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/convex1.png" width="400" alt="Convex"/>
 
@@ -81,4 +83,3 @@ function, solve the inefficiency in training and get better convergence
 
 <br>
 
-## HITL Test (using PX4 )
