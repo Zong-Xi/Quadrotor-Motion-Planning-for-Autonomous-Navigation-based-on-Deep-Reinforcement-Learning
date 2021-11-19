@@ -1,18 +1,22 @@
 # Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning
 ----
 
-## Environment Setting
-- AirSim
-
 ## Training quadrotor by Reinforcement Learning 
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="400" alt="RL_graph"/>
 
-- Get data(observation) from sensor 
-- Data preprocess for training
-- Optimize the policy network by Deep Reinforcement Learning
-- Agent output action command for quadrotor depend on current policy network
-- Controller transform the reference action into control signal for actuator  
-- Quadrotor take action and get new data from sensor 
+<table>
+    <center>
+    <tr>
+        <td><center>Cumulative Reward (using depth image)</center></td>
+        <td><center>Cumulative Reward (using laser)</center></td>
+    </tr>
+    </center>
+    <tr>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/result_image.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/result_laser.png" ></td>
+    </tr>
+</table>
+
+
 
 <br>
 
