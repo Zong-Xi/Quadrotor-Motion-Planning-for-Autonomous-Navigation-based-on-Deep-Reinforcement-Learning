@@ -1,7 +1,7 @@
 # Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning
 ----
 
-## Training quadrotor by Deep Reinforcement Learning 
+## Training the Quadrotor for Obstacle Avoidance
 
 ### Using Different Sensor
 <table>
@@ -33,8 +33,20 @@
 
 <br>
 
-## System Design
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/system_design.png" width="400" alt="System_Design"/>
+## Training the Quadrotor for Autonomous Navigation
+<table>
+    <center>
+    <tr>
+        <td><center>Benchmark Reward Function</center></td>
+        <td><center>Reward Function with Penalty</center></td>
+    </tr>
+    </center>
+    <tr>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/nop.png" ></td>
+        <td align="center"><img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/result/p.png" ></td>
+    </tr>
+</table>
+
 
 <br>
 
