@@ -23,17 +23,23 @@
 
 ## Evaluation with Non-Convex Obstacle
 <img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/convex1.png" width="400" alt="Convex"/>
-
+#### Video
 [![Watch the video nonconvex](https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/co.png)](https://youtu.be/4TPvgdnOK-U)
 
 <br>
 
 ## Evaluation with Blind Alley
 <img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/blindalley.png" width="400" alt="Alley"/>
+#### Video
+[![Watch the video alley](https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/ba.png)](https://youtu.be/DjY7rzvJA9A)
+
 <br>
 
 ## Evaluation with Moving Doors (Dynamic Environment)
 <img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/dynamic.png" width="400" alt="Dynamic"/>
+#### Video
+[![Watch the video nonconvex](https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/dy.png)](https://youtu.be/VTwn2tqv_2I)
+
 <br>
 
 ## HITL Test (using PX4 )
