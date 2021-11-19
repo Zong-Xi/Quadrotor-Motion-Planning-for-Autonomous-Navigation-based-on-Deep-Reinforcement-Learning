@@ -2,7 +2,7 @@
 ----
 
 ## Training quadrotor by Reinforcement Learning 
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="70" alt="RL_graph"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="100" alt="RL_graph"/>
 - optimize the policy 
 - 
 
