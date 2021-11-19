@@ -66,7 +66,7 @@ function, solve the inefficiency in training and get better convergence
 <br>
 
 ## Evaluation with Blind Alley
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/blindalley.png" width="400" alt="Alley"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/blindalley.png" width="600" alt="Alley"/>
 
 #### Video
 
@@ -75,7 +75,7 @@ function, solve the inefficiency in training and get better convergence
 <br>
 
 ## Evaluation with Moving Doors (Dynamic Environment)
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/dynamic.png" width="400" alt="Dynamic"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/dynamic.png" width="600" alt="Dynamic"/>
 
 #### Video
 
