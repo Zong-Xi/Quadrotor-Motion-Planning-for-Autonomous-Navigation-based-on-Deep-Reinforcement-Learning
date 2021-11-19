@@ -5,7 +5,7 @@
 - AirSim
 
 ## Training quadrotor by Reinforcement Learning 
-<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="140" alt="RL_graph"/>
+<img src="https://github.com/Zong-Xi/Quadrotor-Motion-Planning-for-Autonomous-Navigation-based-on-Deep-Reinforcement-Learning/blob/main/picture/rl_env_agent1.png" width="300" alt="RL_graph"/>
 
 - Get data(observation) from sensor 
 - Data preprocess for training
